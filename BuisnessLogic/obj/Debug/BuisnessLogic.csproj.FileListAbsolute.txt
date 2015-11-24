@@ -1,0 +1,16 @@
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\BuisnessLogic.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\BuisnessLogic.pdb
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\EntityFramework.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\EntityFramework.xml
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\obj\Debug\BuisnessLogic.csprojResolveAssemblyReference.cache
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\obj\Debug\BuisnessLogic.dll
+C:\Users\konstantin\Documents\Visual Studio 2015\Projects\MyMeetings\BuisnessLogic\obj\Debug\BuisnessLogic.pdb

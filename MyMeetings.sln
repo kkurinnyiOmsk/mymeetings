@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMeetings", "MyMeetings\MyMeetings.csproj", "{4066B0BC-0A3A-4886-930D-1192C9588B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{B01B39D4-900D-49BB-9305-2D466ED92A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessLogic", "BuisnessLogic\BuisnessLogic.csproj", "{69913FBE-D1C2-4C39-872D-35ED3339D0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4066B0BC-0A3A-4886-930D-1192C9588B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4066B0BC-0A3A-4886-930D-1192C9588B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4066B0BC-0A3A-4886-930D-1192C9588B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4066B0BC-0A3A-4886-930D-1192C9588B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01B39D4-900D-49BB-9305-2D466ED92A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01B39D4-900D-49BB-9305-2D466ED92A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01B39D4-900D-49BB-9305-2D466ED92A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01B39D4-900D-49BB-9305-2D466ED92A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69913FBE-D1C2-4C39-872D-35ED3339D0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69913FBE-D1C2-4C39-872D-35ED3339D0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69913FBE-D1C2-4C39-872D-35ED3339D0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69913FBE-D1C2-4C39-872D-35ED3339D0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
